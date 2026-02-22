@@ -1,45 +1,83 @@
-**Sales Report & Finance Report for AtliQ Hardware**
-***
-**Sales Report :**
+# 📊 Business Intelligence Case Study  
+## Sales & Finance Analytics for AtliQ Hardware
+
 ---
-**Project objective:**
 
-1. Create a [customer performance report](https://your-link.com)
+## 🚀 Project Overview
 
-2. Conduct a comprehensive comparison between [market performance vs sales targets](https://your-link.com)
+This project focuses on building dynamic **Sales and Finance Reports** to transform raw transactional data into actionable business insights.  
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+The objective was not just report creation — but designing a decision-support system that enables strategic growth and financial clarity.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-**Finance Report :**
 ---
-**Project objective:**
 
-1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://your-link.com) & [Months](https://your-link.com)
+# 📈 Sales Analytics Report
 
-2. Create Profit and Loss (P&L) reports by [Markets](https://your-link.com)
+### 🎯 Objectives
+- Develop a [Customer Performance Dashboard](https://your-link.com)
+- Perform a comparative analysis of [Market Performance vs Sales Targets](https://your-link.com)
 
-- **Purpose of sales analytics**: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+### 💡 Why Sales Analytics Matters
+Sales analytics empowers organizations to:
+- Monitor revenue streams and customer behavior
+- Track Key Performance Indicators (KPIs)
+- Detect trends and performance gaps early
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+### 📌 Business Impact
+The Sales Report enables stakeholders to:
+- Optimize customer discount strategies  
+- Strengthen negotiation decisions  
+- Identify high-growth markets for expansion  
+- Improve alignment between targets and actual performance  
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-**Technical Skills Gained:**
 ---
- - [x] Proficiency in ETL methodology (Extract, Transform, Load).
- - [x] Skills to generate a date table using Power Query.
- - [x] Ability to derive fiscal months and quarters.
- - [x] Establishing data model relationships with Power Pivot.
- - [x] Proficiency in incorporating supplementary data into an existing data model.
- - [x] Utilizing DAX to create calculated columns.
-       
-**Soft Skills Gained:**
+
+# 💰 Finance Analytics Report
+
+### 🎯 Objectives
+- Build **Profit & Loss (P&L) Reports** by:
+  - [Fiscal Year](https://your-link.com) & [Month](https://your-link.com)  
+  - [Market Segments](https://your-link.com)  
+
+### 💡 Why Financial Analytics Matters
+Financial analysis provides:
+- Clear visibility into profitability  
+- Data-backed decision-making support  
+- Structured communication with stakeholders  
+
+### 📌 Strategic Value
+The Finance Report helps:
+- Benchmark performance against previous periods  
+- Support budgeting and forecasting processes  
+- Align financial planning with long-term strategic goals  
+- Strengthen confidence in the company’s financial health  
+
 ---
- - [x] Refined understanding of Sales & Finance Reports
- - [x] Designing user-centric reports with empathy in mind.
- - [x] Optimization of report generation through meticulous fine-tuning.
- - [x] Developing a systematic approach to devising a report building plan.
+
+# 🛠 Technical Skills Applied
+
+- ETL Methodology (Extract, Transform, Load)
+- Data Modeling using Power Pivot
+- Date Table Creation with Power Query
+- Fiscal Month & Quarter Derivations
+- Integrating supplementary datasets into existing models
+- Writing DAX formulas for calculated columns
+- Building structured and scalable data models
+
+---
+
+# 🌱 Professional Skills Strengthened
+
+- Analytical thinking in Sales & Financial reporting
+- Designing user-centric dashboards with clarity and purpose
+- Performance optimization through model fine-tuning
+- Structured planning before report development
+- Translating business requirements into technical solutions
+
+---
+
+## 🎯 Outcome
+
+This project demonstrates the ability to bridge the gap between **raw data and executive decision-making**, delivering reports that are not only visually compelling but strategically impactful.
+
+---
