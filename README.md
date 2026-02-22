@@ -14,8 +14,8 @@ The objective was not just report creation — but designing a decision-support 
 # 📈 Sales Analytics Report
 
 ### 🎯 Objectives
-- Develop a [Customer Performance Dashboard](https://your-link.com)
-- Perform a comparative analysis of [Market Performance vs Sales Targets](https://your-link.com)
+- Develop a [customer performance report](https://your-link.com)
+- Perform a comparative analysis of [market performance vs sales targets](https://your-link.com)
 
 ### 💡 Why Sales Analytics Matters
 Sales analytics empowers organizations to:
@@ -36,8 +36,8 @@ The Sales Report enables stakeholders to:
 
 ### 🎯 Objectives
 - Build **Profit & Loss (P&L) Reports** by:
-  - [Fiscal Year](https://your-link.com) & [Month](https://your-link.com)  
-  - [Market Segments](https://your-link.com)  
+  - [Fiscal Year](https://your-link.com) & [Months](https://your-link.com)  
+  - [Markets](https://your-link.com)  
 
 ### 💡 Why Financial Analytics Matters
 Financial analysis provides:
